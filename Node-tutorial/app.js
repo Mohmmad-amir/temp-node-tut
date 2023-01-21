@@ -13,5 +13,5 @@
 // npm init -y (everything default)
 
 
-// console.log('hello people');
+console.log('hello people');
 
