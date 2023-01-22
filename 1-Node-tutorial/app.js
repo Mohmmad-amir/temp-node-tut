@@ -11,7 +11,8 @@
 // manual approach (create package.json in the root, create properties etc)
 // npm init (step by step, press enter to skip)
 // npm init -y (everything default)
-// console.log('hello people');
+// console.log('stream example');
+
 
 
 
